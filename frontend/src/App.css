@@ -1,0 +1,212 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("../src/assets/fonts/stylesheet.css");
+
+@layer base {
+  :root {
+    --background-v1: white;
+    /* --background-v2: #f9f9f9; v1 */
+    --background-v2: #f7f7fa; 
+    --background-v3: #f3f3f3;
+    --color-text-primary: black;
+  }
+  
+  .dark {
+    /* --background-v1: #1e1f24; v1*/
+    --background-v1: #020d1c;
+    /* --background-v2: #17181c; v1 */
+    --background-v2: #071120;
+    --background-v3: #25272d;
+    --color-text-primary: white;
+  }
+}
+
+* {
+  @apply !font-poppins;
+}
+
+@media screen and (min-width: 1400px) {
+  .container {
+    max-width: 1270px;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  transition: all;
+  transition-duration: 300;
+  transition: ease-in-out;
+}
+
+.component {
+  @apply py-5 md:py-10  ;
+}
+
+@layer utilities {
+  .scrollbar::-webkit-scrollbar {
+    width: 3px;
+    height: 10px;
+  }
+
+  .scrollbar::-webkit-scrollbar-track {
+    background: "var(--background-v1)";
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb {
+    height: 10px;
+    border-radius: 100vh;
+    /* background: #2a86fe; blue*/
+    background: #2ce28b;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb:hover {
+    /* background: #c0a0b9; */
+  }
+
+  .post-scroll::-webkit-scrollbar{
+    display: none;
+  }
+}
+
+
+.container {
+  @apply max-w-full xxl:w-[1340px] 3xl:w-[1480px];
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+@layer components {
+  .gradient {
+    background-image: linear-gradient(
+      270deg,
+      rgba(209, 35, 225, 0.192) 0%,
+      rgba(208, 138, 234, 0.256) 26%,
+      rgba(208, 194, 244, 0.266) 39%,
+      rgba(206, 236, 253, 0.347) 50%,
+      rgba(169, 200, 244, 0.395) 61%,
+      rgba(123, 158, 234, 0.344) 74%,
+      rgba(35, 98, 225, 0.337) 100%
+    );
+    filter: blur(125px);
+  }
+
+  .bg-gradient {
+    background: linear-gradient(
+      270deg,
+      rgba(209, 35, 225, 0.192) 0%,
+      rgba(208, 138, 234, 0.256) 26%,
+      rgba(208, 194, 244, 0.266) 39%,
+      rgba(206, 236, 253, 0.347) 50%,
+      rgba(169, 200, 244, 0.395) 61%,
+      rgba(123, 158, 234, 0.344) 74%,
+      rgba(35, 98, 225, 0.337) 100%
+    );
+  }
+}
+
+@layer base {
+  .text-gradient {
+    -webkit-text-fill-color: transparent !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+  }
+}
+@layer components {
+  .text-blue-lg {
+    background: linear-gradient(150deg, #339ada 0%, #1258b4 50%, #063168 100%);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.custom-spin {
+  animation: spin 3s linear infinite; /* Adjust the animation duration here (2s in this example) */
+}
+
+.load-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fdba2c;
+}
+.bar {
+  content: "";
+  display: inline;
+  position: absolute;
+  width: 0;
+  height: 100%;
+  left: 50%;
+  text-align: center;
+}
+.bar:nth-child(1) {
+  background-color: #da4733;
+  animation: loading 3s linear infinite;
+}
+.bar:nth-child(2) {
+  background-color: #3b78e7;
+  animation: loading 3s linear 1s infinite;
+}
+.bar:nth-child(3) {
+  background-color: #fdba2c;
+  animation: loading 3s linear 2s infinite;
+}
+.bar:nth-child(4) {
+  background-color: #083d83;
+  animation: loading 3s linear 2s infinite;
+}
+@keyframes loading {
+  from {
+    left: 50%;
+    width: 0;
+    z-index: 100;
+  }
+  33.3333% {
+    left: 0;
+    width: 100%;
+    z-index: 10;
+  }
+  to {
+    left: 0;
+    width: 100%;
+  }
+}
+
+.dashbord-card:hover .dashbord-card-icon {
+  animation: spin 0.3s ease-in;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+* {
+-ms-overflow-style: none;  /* IE and Edge */
+scrollbar-width: none;  /* Firefox */
+}

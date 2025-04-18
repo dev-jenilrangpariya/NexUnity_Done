@@ -1,0 +1,2285 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 350 240"
+  width="350"
+  height="240"
+  preserveAspectRatio="xMidYMid meet"
+  style={{
+    width: "100%",
+    height: "100%",
+    transform: "translate3d(0px, 0px, 0px)",
+    contentVisibility: "visible",
+  }}
+>
+  <defs>
+    <clipPath id="__lottie_element_20">
+      <rect width="350" height="240" x="0" y="0"></rect>
+    </clipPath>
+    <linearGradient
+      id="__lottie_element_25"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="-14.5"
+      y1="0"
+      x2="14.5"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(2,13,28)" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="rgb(2,13,28)" stop-opacity="0.5"></stop>
+      <stop offset="100%" stop-color="rgb(2,13,28)" stop-opacity="1"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_29"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="-14.5"
+      y1="0"
+      x2="14.5"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(2,13,28)" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="rgb(2,13,28)" stop-opacity="0.5"></stop>
+      <stop offset="100%" stop-color="rgb(2,13,28)" stop-opacity="1"></stop>
+    </linearGradient>
+    <clipPath id="__lottie_element_31">
+      <path d="M0,0 L1920,0 L1920,1080 L0,1080z"></path>
+    </clipPath>
+    <linearGradient
+      id="__lottie_element_191"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_195"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="3%" stop-color="rgb(0,208,254)"></stop>
+      <stop offset="51%" stop-color="rgb(22,135,240)"></stop>
+      <stop offset="100%" stop-color="rgb(44,62,226)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_199"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="1%" stop-color="rgb(0,208,254)"></stop>
+      <stop offset="50%" stop-color="rgb(22,135,240)"></stop>
+      <stop offset="100%" stop-color="rgb(44,62,226)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_203"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_207"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="-215.86300659179688"
+      y1="0.30799999833106995"
+      x2="215.2779998779297"
+      y2="0.30799999833106995"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <clipPath id="__lottie_element_209">
+      <path d="M0,0 L350,0 L350,500 L0,500z"></path>
+    </clipPath>
+    <linearGradient
+      id="__lottie_element_218"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_222"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_226"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_230"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_234"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="-215.86300659179688"
+      y1="0.30799999833106995"
+      x2="215.2779998779297"
+      y2="0.30799999833106995"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <clipPath id="__lottie_element_361">
+      <path d="M0,0 L350,0 L350,500 L0,500z"></path>
+    </clipPath>
+    <clipPath id="__lottie_element_365">
+      <path d="M0,0 L1920,0 L1920,1080 L0,1080z"></path>
+    </clipPath>
+    <clipPath id="__lottie_element_369">
+      <path d="M0,0 L1920,0 L1920,1080 L0,1080z"></path>
+    </clipPath>
+    <clipPath id="__lottie_element_373">
+      <path d="M0,0 L1920,0 L1920,1080 L0,1080z"></path>
+    </clipPath>
+    <clipPath id="__lottie_element_377">
+      <path d="M0,0 L1920,0 L1920,1080 L0,1080z"></path>
+    </clipPath>
+    <clipPath id="__lottie_element_381">
+      <path d="M0,0 L1920,0 L1920,1080 L0,1080z"></path>
+    </clipPath>
+    <linearGradient
+      id="__lottie_element_387"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_391"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_395"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_399"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_403"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="-215.86300659179688"
+      y1="0.30799999833106995"
+      x2="215.2779998779297"
+      y2="0.30799999833106995"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <clipPath id="__lottie_element_478">
+      <path d="M0,0 L1920,0 L1920,1080 L0,1080z"></path>
+    </clipPath>
+    <clipPath id="__lottie_element_518">
+      <path d="M0,0 L350,0 L350,500 L0,500z"></path>
+    </clipPath>
+    <linearGradient
+      id="__lottie_element_524"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_528"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_532"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_536"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_540"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="-215.86300659179688"
+      y1="0.30799999833106995"
+      x2="215.2779998779297"
+      y2="0.30799999833106995"
+    >
+      <stop offset="0%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="50%" stop-color="rgb(68,69,80)"></stop>
+      <stop offset="100%" stop-color="rgb(68,69,80)"></stop>
+    </linearGradient>
+    <clipPath id="__lottie_element_596">
+      <path d="M0,0 L350,0 L350,500 L0,500z"></path>
+    </clipPath>
+    <linearGradient
+      id="__lottie_element_602"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(44,62,226)"></stop>
+      <stop offset="50%" stop-color="rgb(44,144,183)"></stop>
+      <stop offset="100%" stop-color="rgb(44,226,139)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_606"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(44,62,226)"></stop>
+      <stop offset="50%" stop-color="rgb(44,144,183)"></stop>
+      <stop offset="100%" stop-color="rgb(44,226,139)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_610"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(44,62,226)"></stop>
+      <stop offset="50%" stop-color="rgb(44,144,183)"></stop>
+      <stop offset="100%" stop-color="rgb(44,226,139)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_614"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="0"
+      y1="0"
+      x2="100"
+      y2="0"
+    >
+      <stop offset="0%" stop-color="rgb(44,62,226)"></stop>
+      <stop offset="50%" stop-color="rgb(44,144,183)"></stop>
+      <stop offset="100%" stop-color="rgb(44,226,139)"></stop>
+    </linearGradient>
+    <linearGradient
+      id="__lottie_element_618"
+      spreadMethod="pad"
+      gradientUnits="userSpaceOnUse"
+      x1="-215.86300659179688"
+      y1="0.30799999833106995"
+      x2="215.2779998779297"
+      y2="0.30799999833106995"
+    >
+      <stop offset="0%" stop-color="rgb(44,62,226)"></stop>
+      <stop offset="50%" stop-color="rgb(44,144,183)"></stop>
+      <stop offset="100%" stop-color="rgb(44,226,139)"></stop>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#__lottie_element_20)">
+    <g
+      transform="matrix(0.27777600288391113,0,0,0.41666799783706665,81.81305694580078,172.7369384765625)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          stroke="url(#__lottie_element_191)"
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke-opacity="1"
+          strokeWidth="2"
+          d=" M-187.8730010986328,87.65799713134766 C0.503000020980835,73.16699981689453 10.442000389099121,-88.69300079345703 215.57000732421875,-88.69300079345703 C215.57000732421875,-88.69300079345703 272.0369873046875,-88.70800018310547 272.0369873046875,-88.70800018310547"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.27777600288391113,0,0,0.41666799783706665,75.37360382080078,146.5305938720703)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          stroke="url(#__lottie_element_195)"
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke-opacity="1"
+          strokeWidth="2"
+          d=" M-238.7030029296875,44.34600067138672 C-238.7030029296875,44.34600067138672 -238.7030029296875,44.34600067138672 -192.43800354003906,44.34600067138672 C23.131999969482422,44.34600067138672 23.570999145507812,-44.34600067138672 238.7030029296875,-44.34600067138672 C238.7030029296875,-44.34600067138672 295.510009765625,-44.56100082397461 295.510009765625,-44.56100082397461"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.27777600288391113,0,0,0.41666799783706665,81.8545913696289,120.36709594726562)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          stroke="url(#__lottie_element_199)"
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke-opacity="1"
+          strokeWidth="2"
+          d=" M-188.35800170898438,0.2809999883174896 C27.211999893188477,0.2809999883174896 0.6169999837875366,0 215.35800170898438,0 C215.35800170898438,0 272.2460021972656,0.20499999821186066 272.2460021972656,0.20499999821186066"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.27777600288391113,0,0,0.41666799783706665,75.38308715820312,94.16864776611328)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          stroke="url(#__lottie_element_203)"
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke-opacity="1"
+          strokeWidth="2"
+          d=" M-238.7030029296875,-44.34600067138672 C-238.7030029296875,-44.34600067138672 -238.7030029296875,-44.34600067138672 -192.43800354003906,-44.34600067138672 C23.131999969482422,-44.34600067138672 23.570999145507812,44.34600067138672 238.7030029296875,44.34600067138672 C238.7030029296875,44.34600067138672 295.2699890136719,44.46099853515625 295.2699890136719,44.46099853515625"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.27777600288391113,0,0,0.41666799783706665,81.76789093017578,67.97624969482422)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          stroke="url(#__lottie_element_207)"
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke-opacity="1"
+          strokeWidth="2"
+          d=" M-180.92300415039062,-87.04900360107422 C0.7799999713897705,-69.16300201416016 12.994000434875488,88.69300079345703 215.57000732421875,88.69300079345703 C215.57000732421875,88.69300079345703 273.1369934082031,88.80799865722656 273.1369934082031,88.80799865722656"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,110.91300201416016,133.18499755859375)"
+      opacity="1"
+      style={{ display: "none" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+      <g
+        opacity="1"
+        transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+      >
+        <path
+          fill="rgb(0,208,254)"
+          fill-opacity="1"
+          d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,253.01498413085938,191.91799926757812)"
+      opacity="1"
+      style={{ display: "none" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+      <g
+        opacity="1"
+        transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+      >
+        <path
+          fill="rgb(43,61,226)"
+          fill-opacity="1"
+          d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+        ></path>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_209)"
+      transform="matrix(1,0,0,1,0,-130)"
+      opacity="1"
+      style={{ display: "none" }}
+    >
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,258.21368408203125,198.84608459472656)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_218)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-257.7099914550781,89.03299713134766 C-257.7099914550781,89.03299713134766 -247.80999755859375,88.69300079345703 -215.57000732421875,88.69300079345703 C0,88.69300079345703 0.8289999961853027,-88.69300079345703 215.57000732421875,-88.69300079345703 C215.57000732421875,-88.69300079345703 272.0369873046875,-88.70800018310547 272.0369873046875,-88.70800018310547"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,252.23391723632812,224.66000366210938)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_222)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-238.7030029296875,44.34600067138672 C-238.7030029296875,44.34600067138672 -238.7030029296875,44.34600067138672 -192.43800354003906,44.34600067138672 C23.131999969482422,44.34600067138672 23.570999145507812,-44.34600067138672 238.7030029296875,-44.34600067138672 C238.7030029296875,-44.34600067138672 295.510009765625,-44.56100082397461 295.510009765625,-44.56100082397461"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,257.9118957519531,250.1475067138672)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_226)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-256.1520080566406,0.1379999965429306 C-256.1520080566406,0.1379999965429306 -235.4530029296875,0 -215.35800170898438,0 C0.21199999749660492,0 0.6169999837875366,0 215.35800170898438,0 C215.35800170898438,0 272.2460021972656,0.20499999821186066 272.2460021972656,0.20499999821186066"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,252.305908203125,275.8842468261719)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_230)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-238.7030029296875,-44.34600067138672 C-238.7030029296875,-44.34600067138672 -238.7030029296875,-44.34600067138672 -192.43800354003906,-44.34600067138672 C23.131999969482422,-44.34600067138672 23.570999145507812,44.34600067138672 238.7030029296875,44.34600067138672 C238.7030029296875,44.34600067138672 295.2699890136719,44.46099853515625 295.2699890136719,44.46099853515625"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,257.7625732421875,301.587646484375)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_234)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-256.7879943847656,-88.86299896240234 C-256.7879943847656,-88.86299896240234 -225.73800659179688,-88.69300079345703 -215.57000732421875,-88.69300079345703 C0,-88.69300079345703 0.8289999961853027,88.69300079345703 215.57000732421875,88.69300079345703 C215.57000732421875,88.69300079345703 273.1369934082031,88.80699920654297 273.1369934082031,88.80699920654297"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,423.7039794921875,219.32598876953125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,423.39599609375,263.55999755859375)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,418.9440002441406,307.2250061035156)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,423.7039794921875,280.67401123046875)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,423.39599609375,236.44000244140625)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_596)"
+      transform="matrix(1,0,0,1,0,-130)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,258.21368408203125,198.84608459472656)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_602)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-257.7099914550781,89.03299713134766 C-257.7099914550781,89.03299713134766 -247.80999755859375,88.69300079345703 -215.57000732421875,88.69300079345703 C0,88.69300079345703 0.8289999961853027,-88.69300079345703 215.57000732421875,-88.69300079345703 C215.57000732421875,-88.69300079345703 272.0369873046875,-88.70800018310547 272.0369873046875,-88.70800018310547"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,252.23391723632812,224.66000366210938)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_606)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-238.7030029296875,44.34600067138672 C-238.7030029296875,44.34600067138672 -238.7030029296875,44.34600067138672 -192.43800354003906,44.34600067138672 C23.131999969482422,44.34600067138672 23.570999145507812,-44.34600067138672 238.7030029296875,-44.34600067138672 C238.7030029296875,-44.34600067138672 295.510009765625,-44.56100082397461 295.510009765625,-44.56100082397461"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,257.9118957519531,250.1475067138672)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_610)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-256.1520080566406,0.1379999965429306 C-256.1520080566406,0.1379999965429306 -235.4530029296875,0 -215.35800170898438,0 C0.21199999749660492,0 0.6169999837875366,0 215.35800170898438,0 C215.35800170898438,0 272.2460021972656,0.20499999821186066 272.2460021972656,0.20499999821186066"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,252.305908203125,275.8842468261719)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_614)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-238.7030029296875,-44.34600067138672 C-238.7030029296875,-44.34600067138672 -238.7030029296875,-44.34600067138672 -192.43800354003906,-44.34600067138672 C23.131999969482422,-44.34600067138672 23.570999145507812,44.34600067138672 238.7030029296875,44.34600067138672 C238.7030029296875,44.34600067138672 295.2699890136719,44.46099853515625 295.2699890136719,44.46099853515625"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,257.7625732421875,301.587646484375)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_618)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-256.7879943847656,-88.86299896240234 C-256.7879943847656,-88.86299896240234 -225.73800659179688,-88.69300079345703 -215.57000732421875,-88.69300079345703 C0,-88.69300079345703 0.8289999961853027,88.69300079345703 215.57000732421875,88.69300079345703 C215.57000732421875,88.69300079345703 273.1369934082031,88.80699920654297 273.1369934082031,88.80699920654297"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,354.0282287597656,257.0405578613281)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,140,184)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,353.0787658691406,283.0041809082031)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,140,184)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,349.0128479003906,307.14300537109375)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,140,184)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,354.0282287597656,242.95944213867188)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,140,184)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,353.0787658691406,216.99581909179688)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,140,184)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_361)"
+      transform="matrix(1,0,0,1,0,-130)"
+      opacity="1"
+      style={{ display: "none" }}
+    >
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,258.21368408203125,198.84608459472656)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_387)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-257.7099914550781,89.03299713134766 C-257.7099914550781,89.03299713134766 -247.80999755859375,88.69300079345703 -215.57000732421875,88.69300079345703 C0,88.69300079345703 0.8289999961853027,-88.69300079345703 215.57000732421875,-88.69300079345703 C215.57000732421875,-88.69300079345703 272.0369873046875,-88.70800018310547 272.0369873046875,-88.70800018310547"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,252.23391723632812,224.66000366210938)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_391)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-238.7030029296875,44.34600067138672 C-238.7030029296875,44.34600067138672 -238.7030029296875,44.34600067138672 -192.43800354003906,44.34600067138672 C23.131999969482422,44.34600067138672 23.570999145507812,-44.34600067138672 238.7030029296875,-44.34600067138672 C238.7030029296875,-44.34600067138672 295.510009765625,-44.56100082397461 295.510009765625,-44.56100082397461"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,257.9118957519531,250.1475067138672)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_395)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-256.1520080566406,0.1379999965429306 C-256.1520080566406,0.1379999965429306 -235.4530029296875,0 -215.35800170898438,0 C0.21199999749660492,0 0.6169999837875366,0 215.35800170898438,0 C215.35800170898438,0 272.2460021972656,0.20499999821186066 272.2460021972656,0.20499999821186066"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,252.305908203125,275.8842468261719)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_399)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-238.7030029296875,-44.34600067138672 C-238.7030029296875,-44.34600067138672 -238.7030029296875,-44.34600067138672 -192.43800354003906,-44.34600067138672 C23.131999969482422,-44.34600067138672 23.570999145507812,44.34600067138672 238.7030029296875,44.34600067138672 C238.7030029296875,44.34600067138672 295.2699890136719,44.46099853515625 295.2699890136719,44.46099853515625"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,257.7625732421875,301.587646484375)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_403)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-256.7879943847656,-88.86299896240234 C-256.7879943847656,-88.86299896240234 -225.73800659179688,-88.69300079345703 -215.57000732421875,-88.69300079345703 C0,-88.69300079345703 0.8289999961853027,88.69300079345703 215.57000732421875,88.69300079345703 C215.57000732421875,88.69300079345703 273.1369934082031,88.80699920654297 273.1369934082031,88.80699920654297"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,423.7039794921875,219.32598876953125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,423.39599609375,263.55999755859375)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,418.9440002441406,307.2250061035156)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,423.7039794921875,280.67401123046875)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,288.66900634765625,208.55001831054688)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,61,226)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,423.39599609375,236.44000244140625)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_518)"
+      transform="matrix(1,0,0,1,0,-130)"
+      opacity="1"
+      style={{ display: "none" }}
+    >
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,258.21368408203125,198.84608459472656)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_524)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-257.7099914550781,89.03299713134766 C-257.7099914550781,89.03299713134766 -247.80999755859375,88.69300079345703 -215.57000732421875,88.69300079345703 C0,88.69300079345703 0.8289999961853027,-88.69300079345703 215.57000732421875,-88.69300079345703 C215.57000732421875,-88.69300079345703 272.0369873046875,-88.70800018310547 272.0369873046875,-88.70800018310547"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,252.23391723632812,224.66000366210938)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_528)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-238.7030029296875,44.34600067138672 C-238.7030029296875,44.34600067138672 -238.7030029296875,44.34600067138672 -192.43800354003906,44.34600067138672 C23.131999969482422,44.34600067138672 23.570999145507812,-44.34600067138672 238.7030029296875,-44.34600067138672 C238.7030029296875,-44.34600067138672 295.510009765625,-44.56100082397461 295.510009765625,-44.56100082397461"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,257.9118957519531,250.1475067138672)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_532)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-256.1520080566406,0.1379999965429306 C-256.1520080566406,0.1379999965429306 -235.4530029296875,0 -215.35800170898438,0 C0.21199999749660492,0 0.6169999837875366,0 215.35800170898438,0 C215.35800170898438,0 272.2460021972656,0.20499999821186066 272.2460021972656,0.20499999821186066"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,252.305908203125,275.8842468261719)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_536)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-238.7030029296875,-44.34600067138672 C-238.7030029296875,-44.34600067138672 -238.7030029296875,-44.34600067138672 -192.43800354003906,-44.34600067138672 C23.131999969482422,-44.34600067138672 23.570999145507812,44.34600067138672 238.7030029296875,44.34600067138672 C238.7030029296875,44.34600067138672 295.2699890136719,44.46099853515625 295.2699890136719,44.46099853515625"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(0.2777799963951111,0,0,0.4166699945926666,257.7625732421875,301.587646484375)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            stroke="url(#__lottie_element_540)"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            fill-opacity="0"
+            stroke-miterlimit="4"
+            stroke-opacity="1"
+            strokeWidth="2"
+            d=" M-256.7879943847656,-88.86299896240234 C-256.7879943847656,-88.86299896240234 -225.73800659179688,-88.69300079345703 -215.57000732421875,-88.69300079345703 C0,-88.69300079345703 0.8289999961853027,88.69300079345703 215.57000732421875,88.69300079345703 C215.57000732421875,88.69300079345703 273.1369934082031,88.80699920654297 273.1369934082031,88.80699920654297"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,423.7039794921875,219.32598876953125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,423.39599609375,263.55999755859375)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,418.9440002441406,307.2250061035156)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,423.7039794921875,280.67401123046875)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,-1,423.39599609375,236.44000244140625)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+        <g
+          opacity="1"
+          transform="matrix(1,0,0,1,-96.76599884033203,-56.26599884033203)"
+        >
+          <path
+            fill="rgb(43,226,139)"
+            fill-opacity="1"
+            d=" M0,-3.171999931335449 C1.750626802444458,-3.171999931335449 3.171999931335449,-1.750626802444458 3.171999931335449,0 C3.171999931335449,1.750626802444458 1.750626802444458,3.171999931335449 0,3.171999931335449 C-1.750626802444458,3.171999931335449 -3.171999931335449,1.750626802444458 -3.171999931335449,0 C-3.171999931335449,-1.750626802444458 -1.750626802444458,-3.171999931335449 0,-3.171999931335449z"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.6716000437736511,175.4167938232422,116.47239685058594)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,-49.5,5.75)">
+        <path
+          fill="url(#__lottie_element_25)"
+          fill-opacity="1"
+          d=" M15,-31.75 C15,-31.75 15,31.75 15,31.75 C15,31.75 -15,31.75 -15,31.75 C-15,31.75 -15,-31.75 -15,-31.75 C-15,-31.75 15,-31.75 15,-31.75z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(-0.5555559992790222,0,0,-0.6715559959411621,175.41651916503906,123.52824401855469)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,-49.5,5.75)">
+        <path
+          fill="url(#__lottie_element_29)"
+          fill-opacity="1"
+          d=" M15,-31.75 C15,-31.75 15,31.75 15,31.75 C15,31.75 -15,31.75 -15,31.75 C-15,31.75 -15,-31.75 -15,-31.75 C-15,-31.75 15,-31.75 15,-31.75z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,175.41635131835938,126.80585479736328)"
+      opacity="0.2"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-65,61 C-65,62.65700149536133 -66.34300231933594,64 -68,64 C-69.65699768066406,64 -71,62.65700149536133 -71,61 C-71,59.34299850463867 -69.65699768066406,58 -68,58 C-66.34300231933594,58 -65,59.34299850463867 -65,61z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-52.20000076293945,61 C-52.20000076293945,62.65700149536133 -53.542999267578125,64 -55.20000076293945,64 C-56.856998443603516,64 -58.20000076293945,62.65700149536133 -58.20000076293945,61 C-58.20000076293945,59.34299850463867 -56.856998443603516,58 -55.20000076293945,58 C-53.542999267578125,58 -52.20000076293945,59.34299850463867 -52.20000076293945,61z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-39.400001525878906,61 C-39.400001525878906,62.65700149536133 -40.74300003051758,64 -42.400001525878906,64 C-44.05699920654297,64 -45.400001525878906,62.65700149536133 -45.400001525878906,61 C-45.400001525878906,59.34299850463867 -44.05699920654297,58 -42.400001525878906,58 C-40.74300003051758,58 -39.400001525878906,59.34299850463867 -39.400001525878906,61z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-26.600000381469727,61 C-26.600000381469727,62.65700149536133 -27.94300079345703,64 -29.600000381469727,64 C-31.256999969482422,64 -32.599998474121094,62.65700149536133 -32.599998474121094,61 C-32.599998474121094,59.34299850463867 -31.256999969482422,58 -29.600000381469727,58 C-27.94300079345703,58 -26.600000381469727,59.34299850463867 -26.600000381469727,61z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-13.800000190734863,61 C-13.800000190734863,62.65700149536133 -15.142999649047852,64 -16.799999237060547,64 C-18.457000732421875,64 -19.799999237060547,62.65700149536133 -19.799999237060547,61 C-19.799999237060547,59.34299850463867 -18.457000732421875,58 -16.799999237060547,58 C-15.142999649047852,58 -13.800000190734863,59.34299850463867 -13.800000190734863,61z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-1,61 C-1,62.65700149536133 -2.3429999351501465,64 -4,64 C-5.6570000648498535,64 -7,62.65700149536133 -7,61 C-7,59.34299850463867 -5.6570000648498535,58 -4,58 C-2.3429999351501465,58 -1,59.34299850463867 -1,61z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-65,82 C-65,83.65699768066406 -66.34300231933594,85 -68,85 C-69.65699768066406,85 -71,83.65699768066406 -71,82 C-71,80.34300231933594 -69.65699768066406,79 -68,79 C-66.34300231933594,79 -65,80.34300231933594 -65,82z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-52.20000076293945,82 C-52.20000076293945,83.65699768066406 -53.542999267578125,85 -55.20000076293945,85 C-56.856998443603516,85 -58.20000076293945,83.65699768066406 -58.20000076293945,82 C-58.20000076293945,80.34300231933594 -56.856998443603516,79 -55.20000076293945,79 C-53.542999267578125,79 -52.20000076293945,80.34300231933594 -52.20000076293945,82z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-39.400001525878906,82 C-39.400001525878906,83.65699768066406 -40.74300003051758,85 -42.400001525878906,85 C-44.05699920654297,85 -45.400001525878906,83.65699768066406 -45.400001525878906,82 C-45.400001525878906,80.34300231933594 -44.05699920654297,79 -42.400001525878906,79 C-40.74300003051758,79 -39.400001525878906,80.34300231933594 -39.400001525878906,82z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-26.600000381469727,82 C-26.600000381469727,83.65699768066406 -27.94300079345703,85 -29.600000381469727,85 C-31.256999969482422,85 -32.599998474121094,83.65699768066406 -32.599998474121094,82 C-32.599998474121094,80.34300231933594 -31.256999969482422,79 -29.600000381469727,79 C-27.94300079345703,79 -26.600000381469727,80.34300231933594 -26.600000381469727,82z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-13.800000190734863,82 C-13.800000190734863,83.65699768066406 -15.142999649047852,85 -16.799999237060547,85 C-18.457000732421875,85 -19.799999237060547,83.65699768066406 -19.799999237060547,82 C-19.799999237060547,80.34300231933594 -18.457000732421875,79 -16.799999237060547,79 C-15.142999649047852,79 -13.800000190734863,80.34300231933594 -13.800000190734863,82z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-1,82 C-1,83.65699768066406 -2.3429999351501465,85 -4,85 C-5.6570000648498535,85 -7,83.65699768066406 -7,82 C-7,80.34300231933594 -5.6570000648498535,79 -4,79 C-2.3429999351501465,79 -1,80.34300231933594 -1,82z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-59,71 C-59,72.65699768066406 -60.34299850463867,74 -62,74 C-63.65700149536133,74 -65,72.65699768066406 -65,71 C-65,69.34300231933594 -63.65700149536133,68 -62,68 C-60.34299850463867,68 -59,69.34300231933594 -59,71z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-46.20000076293945,71 C-46.20000076293945,72.65699768066406 -47.542999267578125,74 -49.20000076293945,74 C-50.856998443603516,74 -52.20000076293945,72.65699768066406 -52.20000076293945,71 C-52.20000076293945,69.34300231933594 -50.856998443603516,68 -49.20000076293945,68 C-47.542999267578125,68 -46.20000076293945,69.34300231933594 -46.20000076293945,71z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-33.400001525878906,71 C-33.400001525878906,72.65699768066406 -34.74300003051758,74 -36.400001525878906,74 C-38.05699920654297,74 -39.400001525878906,72.65699768066406 -39.400001525878906,71 C-39.400001525878906,69.34300231933594 -38.05699920654297,68 -36.400001525878906,68 C-34.74300003051758,68 -33.400001525878906,69.34300231933594 -33.400001525878906,71z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-20.600000381469727,71 C-20.600000381469727,72.65699768066406 -21.94300079345703,74 -23.600000381469727,74 C-25.256999969482422,74 -26.600000381469727,72.65699768066406 -26.600000381469727,71 C-26.600000381469727,69.34300231933594 -25.256999969482422,68 -23.600000381469727,68 C-21.94300079345703,68 -20.600000381469727,69.34300231933594 -20.600000381469727,71z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(125,128,142)"
+          fill-opacity="1"
+          d=" M-7.800000190734863,71 C-7.800000190734863,72.65699768066406 -9.142999649047852,74 -10.800000190734863,74 C-12.456999778747559,74 -13.800000190734863,72.65699768066406 -13.800000190734863,71 C-13.800000190734863,69.34300231933594 -12.456999778747559,68 -10.800000190734863,68 C-9.142999649047852,68 -7.800000190734863,69.34300231933594 -7.800000190734863,71z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,208.47193908691406,160.6947784423828)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(27,36,50)"
+          fill-opacity="1"
+          d=" M16.5,2 C16.5,2 -16.5,2 -16.5,2 C-17.604999542236328,2 -18.5,1.1050000190734863 -18.5,0 C-18.5,0 -18.5,0 -18.5,0 C-18.5,-1.1050000190734863 -17.604999542236328,-2 -16.5,-2 C-16.5,-2 16.5,-2 16.5,-2 C17.604999542236328,-2 18.5,-1.1050000190734863 18.5,0 C18.5,0 18.5,0 18.5,0 C18.5,1.1050000190734863 17.604999542236328,2 16.5,2z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,192.0341033935547,124.02751922607422)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g
+        opacity="1"
+        transform="matrix(1,0,0,1,43.78099822998047,65.96900177001953)"
+      >
+        <path
+          fill="rgb(32,51,223)"
+          fill-opacity="1"
+          d=" M0,-2.0309998989105225 C1.1209088563919067,-2.0309998989105225 2.0309998989105225,-1.1209088563919067 2.0309998989105225,0 C2.0309998989105225,1.1209088563919067 1.1209088563919067,2.0309998989105225 0,2.0309998989105225 C-1.1209088563919067,2.0309998989105225 -2.0309998989105225,1.1209088563919067 -2.0309998989105225,0 C-2.0309998989105225,-1.1209088563919067 -1.1209088563919067,-2.0309998989105225 0,-2.0309998989105225z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,215.6941680908203,179.8614501953125)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(27,36,50)"
+          fill-opacity="1"
+          d=" M4.5,0 C4.5,2.484999895095825 2.484999895095825,4.5 0,4.5 C-2.484999895095825,4.5 -4.5,2.484999895095825 -4.5,0 C-4.5,-2.484999895095825 -2.484999895095825,-4.5 0,-4.5 C2.484999895095825,-4.5 4.5,-2.484999895095825 4.5,0z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,175.1508026123047,169.052001953125)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(110,111,125)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M85,-35.5 C85,-35.5 -85,-35.5 -85,-35.5 C-87.76100158691406,-35.5 -90,-33.26100158691406 -90,-30.5 C-90,-30.5 -90,30.5 -90,30.5 C-90,33.26100158691406 -87.76100158691406,35.5 -85,35.5 C-85,35.5 -76.53299713134766,35.5 -76.53299713134766,35.5 C-76.53299713134766,35.5 -76.53299713134766,35.44599914550781 -76.53299713134766,35.44599914550781 C-76.53299713134766,35.44599914550781 -68.2699966430664,35.44599914550781 -68.2699966430664,35.44599914550781 C-65.35399627685547,35.44599914550781 -63.17499923706055,33.03099822998047 -63.117000579833984,30.115999221801758 C-63.060001373291016,27.2810001373291 -60.744998931884766,25 -57.895999908447266,25 C-57.895999908447266,25 22.966999053955078,25 22.966999053955078,25 C25.881999969482422,25 28.06100082397461,27.413999557495117 28.118999481201172,30.32900047302246 C28.176000595092773,33.16400146484375 30.492000579833984,35.44599914550781 33.340999603271484,35.44599914550781 C33.340999603271484,35.44599914550781 41.53300094604492,35.44599914550781 41.53300094604492,35.44599914550781 C41.53300094604492,35.44599914550781 41.53300094604492,35.5 41.53300094604492,35.5 C41.53300094604492,35.5 85,35.5 85,35.5 C87.76100158691406,35.5 90,33.26100158691406 90,30.5 C90,30.5 90,-30.5 90,-30.5 C90,-33.26100158691406 87.76100158691406,-35.5 85,-35.5z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,175.1508026123047,73.49639892578125)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(110,111,125)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-90,-30.5 C-90,-30.5 -90,30.5 -90,30.5 C-90,33.26100158691406 -87.76100158691406,35.5 -85,35.5 C-85,35.5 -76.53299713134766,35.5 -76.53299713134766,35.5 C-76.53299713134766,35.5 -76.53299713134766,35.44599914550781 -76.53299713134766,35.44599914550781 C-76.53299713134766,35.44599914550781 -68.2699966430664,35.44599914550781 -68.2699966430664,35.44599914550781 C-65.35399627685547,35.44599914550781 -63.17499923706055,33.03099822998047 -63.117000579833984,30.115999221801758 C-63.060001373291016,27.2810001373291 -60.744998931884766,25 -57.895999908447266,25 C-57.895999908447266,25 22.966999053955078,25 22.966999053955078,25 C25.881999969482422,25 28.06100082397461,27.413999557495117 28.118999481201172,30.32900047302246 C28.176000595092773,33.16400146484375 30.492000579833984,35.44599914550781 33.340999603271484,35.44599914550781 C33.340999603271484,35.44599914550781 41.53300094604492,35.44599914550781 41.53300094604492,35.44599914550781 C41.53300094604492,35.44599914550781 41.53300094604492,35.5 41.53300094604492,35.5 C41.53300094604492,35.5 85,35.5 85,35.5 C87.76100158691406,35.5 90,33.26100158691406 90,30.5 C90,30.5 90,-30.5 90,-30.5 C90,-33.26100158691406 87.76100158691406,-35.5 85,-35.5 C85,-35.5 -85,-35.5 -85,-35.5 C-87.76100158691406,-35.5 -90,-33.26100158691406 -90,-30.5z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,175.41635131835938,115.69477081298828)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          strokeLinecap="round"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(68,69,79)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-71.9219970703125,-84.5 C-71.9219970703125,-84.5 -56.78099822998047,-84.5 -56.78099822998047,-84.5 C-56.78099822998047,-84.5 -56.382999420166016,-84.5 -56.382999420166016,-84.5 C-53.96200180053711,-84.5 -52,-86.46199798583984 -52,-88.88300323486328 C-52,-91.30400085449219 -53.96200180053711,-93.26599884033203 -56.382999420166016,-93.26599884033203 C-56.847999572753906,-93.26599884033203 -57.29499816894531,-93.19200134277344 -57.71500015258789,-93.05799865722656 C-58.361000061035156,-96.3550033569336 -61.263999938964844,-98.84400177001953 -64.75,-98.84400177001953 C-67.61100006103516,-98.84400177001953 -70.0739974975586,-97.16400146484375 -71.2249984741211,-94.74099731445312 C-71.5780029296875,-94.81700134277344 -71.94400024414062,-94.85900115966797 -72.31999969482422,-94.85900115966797 C-75.18099975585938,-94.85900115966797 -77.5,-92.54100036621094 -77.5,-89.68000030517578 C-77.5,-86.81900024414062 -75.18099975585938,-84.5 -72.31999969482422,-84.5 C-72.31999969482422,-84.5 -71.9219970703125,-84.5 -71.9219970703125,-84.5z"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          strokeLinecap="round"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(68,69,79)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-71.9219970703125,-91.6719970703125 C-71.9219970703125,-95.63300323486328 -68.71099853515625,-98.84400177001953 -64.75,-98.84400177001953 C-61.284000396728516,-98.84400177001953 -58.393001556396484,-96.38500213623047 -57.7239990234375,-93.11699676513672"
+        ></path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          strokeLinecap="round"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(68,69,79)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-59.979000091552734,-91.38899993896484 C-59.1870002746582,-92.52300262451172 -57.87099838256836,-93.26599884033203 -56.382999420166016,-93.26599884033203 C-53.96200180053711,-93.26599884033203 -52,-91.30400085449219 -52,-88.88300323486328"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,216.80526733398438,63.75027847290039)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(30,79,70)"
+          fill-opacity="1"
+          d=" M2.5,0 C2.5,1.38100004196167 1.38100004196167,2.5 0,2.5 C-1.38100004196167,2.5 -2.5,1.38100004196167 -2.5,0 C-2.5,-1.38100004196167 -1.38100004196167,-2.5 0,-2.5 C1.38100004196167,-2.5 2.5,-1.38100004196167 2.5,0z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,211.80526733398438,63.75027847290039)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(31,50,222)"
+          fill-opacity="1"
+          d=" M2.5,0 C2.5,1.38100004196167 1.38100004196167,2.5 0,2.5 C-1.38100004196167,2.5 -2.5,1.38100004196167 -2.5,0 C-2.5,-1.38100004196167 -1.38100004196167,-2.5 0,-2.5 C1.38100004196167,-2.5 2.5,-1.38100004196167 2.5,0z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,206.80526733398438,63.75027847290039)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(27,36,50)"
+          fill-opacity="1"
+          d=" M2.5,0 C2.5,1.38100004196167 1.38100004196167,2.5 0,2.5 C-1.38100004196167,2.5 -2.5,1.38100004196167 -2.5,0 C-2.5,-1.38100004196167 -1.38100004196167,-2.5 0,-2.5 C1.38100004196167,-2.5 2.5,-1.38100004196167 2.5,0z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,201.80526733398438,63.75027847290039)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(36,139,98)"
+          fill-opacity="1"
+          d=" M2.5,0 C2.5,1.38100004196167 1.38100004196167,2.5 0,2.5 C-1.38100004196167,2.5 -2.5,1.38100004196167 -2.5,0 C-2.5,-1.38100004196167 -1.38100004196167,-2.5 0,-2.5 C1.38100004196167,-2.5 2.5,-1.38100004196167 2.5,0z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,196.80526733398438,63.75027847290039)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(27,36,50)"
+          fill-opacity="1"
+          d=" M2.5,0 C2.5,1.38100004196167 1.38100004196167,2.5 0,2.5 C-1.38100004196167,2.5 -2.5,1.38100004196167 -2.5,0 C-2.5,-1.38100004196167 -1.38100004196167,-2.5 0,-2.5 C1.38100004196167,-2.5 2.5,-1.38100004196167 2.5,0z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,191.8052520751953,63.75027847290039)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(29,42,121)"
+          fill-opacity="1"
+          d=" M2.5,0 C2.5,1.38100004196167 1.38100004196167,2.5 0,2.5 C-1.38100004196167,2.5 -2.5,1.38100004196167 -2.5,0 C-2.5,-1.38100004196167 -1.38100004196167,-2.5 0,-2.5 C1.38100004196167,-2.5 2.5,-1.38100004196167 2.5,0z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,164.30523681640625,76.52806854248047)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(27,36,50)"
+          fill-opacity="1"
+          d=" M55.5,2 C55.5,2 -55.5,2 -55.5,2 C-56.60499954223633,2 -57.5,1.1050000190734863 -57.5,0 C-57.5,0 -57.5,0 -57.5,0 C-57.5,-1.1050000190734863 -56.60499954223633,-2 -55.5,-2 C-55.5,-2 55.5,-2 55.5,-2 C56.60499954223633,-2 57.5,-1.1050000190734863 57.5,0 C57.5,0 57.5,0 57.5,0 C57.5,1.1050000190734863 56.60499954223633,2 55.5,2z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,164.30523681640625,76.52806854248047)"
+      opacity="0.00826266666617059"
+      style={{ display: "none" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(43,212,145)"
+          fill-opacity="1"
+          d=" M55.5,2 C55.5,2 -55.5,2 -55.5,2 C-56.60499954223633,2 -57.5,1.1050000190734863 -57.5,0 C-57.5,0 -57.5,0 -57.5,0 C-57.5,-1.1050000190734863 -56.60499954223633,-2 -55.5,-2 C-55.5,-2 55.5,-2 55.5,-2 C56.60499954223633,-2 57.5,-1.1050000190734863 57.5,0 C57.5,0 57.5,0 57.5,0 C57.5,1.1050000190734863 56.60499954223633,2 55.5,2z"
+        ></path>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_31)"
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,-357.9169921875,-181.52783203125)"
+      opacity="1"
+      style={{ display: "block" }}
+    ></g>
+    <g
+      clip-path="url(#__lottie_element_365)"
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,-357.9169921875,-181.52783203125)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g
+        transform="matrix(1,0,0,1,960,521.7139892578125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,568.5700073242188)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,542.7999877929688)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_369)"
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,-357.9169921875,-181.52783203125)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g
+        transform="matrix(1,0,0,1,960,521.7139892578125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,568.5700073242188)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,542.7999877929688)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_373)"
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,-357.9169921875,-181.52783203125)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g
+        transform="matrix(1,0,0,1,960,521.7139892578125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,568.5700073242188)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,542.7999877929688)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_377)"
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,-357.9169921875,-181.52783203125)"
+      opacity="1"
+      style={{ display: "none" }}
+    >
+      <g
+        transform="matrix(1,0,0,1,960,521.7139892578125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,568.5700073242188)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,542.7999877929688)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_381)"
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,-357.9169921875,-181.52783203125)"
+      opacity="1"
+      style={{ display: "none" }}
+    >
+      <g
+        transform="matrix(1,0,0,1,960,521.7139892578125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,568.5700073242188)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,542.7999877929688)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      clip-path="url(#__lottie_element_478)"
+      transform="matrix(0.5555559992790222,0,0,0.5555559992790222,-357.9169921875,-181.52783203125)"
+      opacity="1"
+      style={{ display: "none" }}
+    >
+      <g
+        transform="matrix(1,0,0,1,960,521.7139892578125)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,568.5700073242188)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+      <g
+        transform="matrix(1,0,0,1,960,542.7999877929688)"
+        opacity="1"
+        style={{ display: "block" }}
+      >
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+          <path
+            strokeLinecap="butt"
+            strokeLinejoin="bevel"
+            fill-opacity="0"
+            stroke="rgb(43,226,139)"
+            stroke-opacity="1"
+            strokeWidth="1"
+            d="M0 0"
+          ></path>
+        </g>
+      </g>
+    </g>
+    <g
+      transform="matrix(0,0.044444482773542404,-0.044444482773542404,0,212.5941619873047,81.47251892089844)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(54,64,78)"
+          fill-opacity="1"
+          d=" M-54.6609992980957,89.31099700927734 C-55.2239990234375,89.8740005493164 -55.80500030517578,90.40899658203125 -56.402000427246094,90.91600036621094 C-56.402000427246094,90.91600036621094 -14.416999816894531,132.89999389648438 -14.416999816894531,132.89999389648438 C-10.78600025177002,136.531005859375 -10.78600025177002,142.41700744628906 -14.416999816894531,146.04800415039062 C-50.722999572753906,182.35499572753906 -109.58799743652344,182.35499572753906 -145.8939971923828,146.04800415039062 C-145.8939971923828,146.04800415039062 -147.43099975585938,144.51100158691406 -147.43099975585938,144.51100158691406 C-183.73699951171875,108.20500183105469 -183.73699951171875,49.34000015258789 -147.43099975585938,13.034000396728516 C-143.8000030517578,9.402999877929688 -137.9149932861328,9.402999877929688 -134.28399658203125,13.034000396728516 C-134.28399658203125,13.034000396728516 -95.59500122070312,51.722999572753906 -95.59500122070312,51.722999572753906 C-95.08899688720703,51.125999450683594 -94.5530014038086,50.54499816894531 -93.98999786376953,49.981998443603516 C-82.96900177001953,38.959999084472656 -65.2300033569336,38.83000183105469 -54.36899948120117,49.689998626708984 C-43.50899887084961,60.55099868774414 -43.63999938964844,78.28900146484375 -54.6609992980957,89.31099700927734z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0,0.044444482773542404,-0.044444482773542404,0,212.5941619873047,81.47251892089844)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(0,0,0)"
+          fill-opacity="1"
+          d=" M-98.13200378417969,114.3030014038086 C-98.13200378417969,125.43399810791016 -107.15599822998047,134.45899963378906 -118.28800201416016,134.45899963378906 C-129.4199981689453,134.45899963378906 -138.44400024414062,125.43399810791016 -138.44400024414062,114.3030014038086 C-138.44400024414062,103.1709976196289 -129.4199981689453,94.14700317382812 -118.28800201416016,94.14700317382812 C-107.15599822998047,94.14700317382812 -98.13200378417969,103.1709976196289 -98.13200378417969,114.3030014038086z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0,0.044444482773542404,-0.044444482773542404,0,210.95748901367188,79.81640625)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(54,64,78)"
+          fill-opacity="1"
+          d=" M68.91899871826172,-86.48999786376953 C70.91899871826172,-88.56400299072266 73.48300170898438,-89.76699829101562 76.13700103759766,-90.09100341796875 C76.13700103759766,-90.09100341796875 62.20800018310547,-103.52100372314453 62.20800018310547,-103.52100372314453 C62.20800018310547,-103.52100372314453 -9.142999649047852,-32.165000915527344 -9.142999649047852,-32.165000915527344 C-29.07900047302246,-42.48099899291992 -52.047000885009766,-45.32699966430664 -73.89800262451172,-40.18899917602539 C-84.85399627685547,-37.61399841308594 -95.16699981689453,-33.1150016784668 -104.39800262451172,-26.986000061035156 C-102.04399871826172,-26.75200080871582 -99.75299835205078,-25.731000900268555 -97.9489974975586,-23.92799949645996 C-97.9489974975586,-23.92799949645996 -57.6879997253418,16.33300018310547 -57.6879997253418,16.33300018310547 C-57.042999267578125,15.522000312805176 -56.345001220703125,14.737000465393066 -55.59400177001953,13.986000061035156 C-45.03099822998047,3.421999931335449 -28.027999877929688,3.2980000972747803 -17.618000030517578,13.708000183105469 C-7.209000110626221,24.117000579833984 -7.334000110626221,41.11800003051758 -17.898000717163086,51.68199920654297 C-18.64900016784668,52.43299865722656 -19.43199920654297,53.13199996948242 -20.243999481201172,53.777000427246094 C-20.243999481201172,53.777000427246094 22.836999893188477,96.85700225830078 22.836999893188477,96.85700225830078 C24.69499969482422,98.71499633789062 25.719999313354492,101.09100341796875 25.913000106811523,103.52100372314453 C32.082000732421875,94.26000213623047 36.608001708984375,83.90599822998047 39.19499969482422,72.90299987792969 C44.332000732421875,51.051998138427734 41.48500061035156,28.083999633789062 31.16900062561035,8.14799976348877 C31.16900062561035,8.14799976348877 75.27100372314453,-35.96699905395508 75.27100372314453,-35.96699905395508 C75.27100372314453,-35.96699905395508 95.427001953125,-35.96699905395508 95.427001953125,-35.96699905395508 C95.427001953125,-35.96699905395508 95.427001953125,-56.12200164794922 95.427001953125,-56.12200164794922 C95.427001953125,-56.12200164794922 102.14600372314453,-62.840999603271484 102.14600372314453,-62.840999603271484 C102.14600372314453,-62.840999603271484 104.39800262451172,-62.840999603271484 104.39800262451172,-62.840999603271484 C104.39800262451172,-62.840999603271484 89.6259994506836,-77.08499908447266 89.6259994506836,-77.08499908447266 C89.39900207519531,-74.4209976196289 88.29000091552734,-71.81400299072266 86.29000091552734,-69.73999786376953 C81.66500091552734,-64.94300079345703 74.0270004272461,-64.80400085449219 69.2300033569336,-69.42900085449219 C64.43299865722656,-74.05400085449219 64.29399871826172,-81.69300079345703 68.91899871826172,-86.48999786376953z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(0,0.044444482773542404,-0.044444482773542404,0,215.94082641601562,84.82974243164062)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(54,64,78)"
+          fill-opacity="1"
+          d=" M-43.31100082397461,24.493999481201172 C-41.85900115966797,22.988000869750977 -40.15599822998047,21.871999740600586 -38.33100128173828,21.145999908447266 C-38.33100128173828,21.145999908447266 -50.19900131225586,9.70300006866455 -50.19900131225586,9.70300006866455 C-50.19900131225586,9.70300006866455 9.887999534606934,-50.38999938964844 9.887999534606934,-50.38999938964844 C9.887999534606934,-50.38999938964844 50.19900131225586,-50.38999938964844 50.19900131225586,-50.38999938964844 C50.19900131225586,-50.38999938964844 50.19900131225586,-10.07800006866455 50.19900131225586,-10.07800006866455 C50.19900131225586,-10.07800006866455 36.762001037597656,3.3589999675750732 36.762001037597656,3.3589999675750732 C36.762001037597656,3.3589999675750732 36.762001037597656,23.514999389648438 36.762001037597656,23.514999389648438 C36.762001037597656,23.514999389648438 16.604999542236328,23.514999389648438 16.604999542236328,23.514999389648438 C16.604999542236328,23.514999389648438 9.887999534606934,30.233999252319336 9.887999534606934,30.233999252319336 C9.887999534606934,30.233999252319336 9.887999534606934,50.38999938964844 9.887999534606934,50.38999938964844 C9.887999534606934,50.38999938964844 -8.003000259399414,50.38999938964844 -8.003000259399414,50.38999938964844 C-8.003000259399414,50.38999938964844 -19.649999618530273,39.15999984741211 -19.649999618530273,39.15999984741211 C-20.308000564575195,41.0099983215332 -21.36199951171875,42.75199890136719 -22.81399917602539,44.257999420166016 C-28.27199935913086,49.91899871826172 -37.284000396728516,50.08300018310547 -42.944000244140625,44.625 C-48.604000091552734,39.16699981689453 -48.76900100708008,30.15399932861328 -43.31100082397461,24.493999481201172z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,44.59199523925781,204.33299255371094)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.425999641418457 19.590999603271484,-8.98799991607666 C19.590999603271484,-8.98799991607666 19.590999603271484,8.98799991607666 19.590999603271484,8.98799991607666 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98799991607666 C-19.590999603271484,8.98799991607666 -19.590999603271484,-8.98799991607666 -19.590999603271484,-8.98799991607666 C-19.590999603271484,-10.425999641418457 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(60,61,74)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.425999641418457 19.590999603271484,-8.98799991607666 C19.590999603271484,-8.98799991607666 19.590999603271484,8.98799991607666 19.590999603271484,8.98799991607666 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98799991607666 C-19.590999603271484,8.98799991607666 -19.590999603271484,-8.98799991607666 -19.590999603271484,-8.98799991607666 C-19.590999603271484,-10.425999641418457 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,26.090999603271484,162.33299255371094)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.425999641418457 19.590999603271484,-8.98799991607666 C19.590999603271484,-8.98799991607666 19.590999603271484,8.98799991607666 19.590999603271484,8.98799991607666 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98799991607666 C-19.590999603271484,8.98799991607666 -19.590999603271484,-8.98799991607666 -19.590999603271484,-8.98799991607666 C-19.590999603271484,-10.425999641418457 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(33,214,255)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.425999641418457 19.590999603271484,-8.98799991607666 C19.590999603271484,-8.98799991607666 19.590999603271484,8.98799991607666 19.590999603271484,8.98799991607666 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98799991607666 C-19.590999603271484,8.98799991607666 -19.590999603271484,-8.98799991607666 -19.590999603271484,-8.98799991607666 C-19.590999603271484,-10.425999641418457 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,46.13399887084961,120.33300018310547)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.427000045776367 19.590999603271484,-8.98900032043457 C19.590999603271484,-8.98900032043457 19.590999603271484,8.98799991607666 19.590999603271484,8.98799991607666 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98799991607666 C-19.590999603271484,8.98799991607666 -19.590999603271484,-8.98900032043457 -19.590999603271484,-8.98900032043457 C-19.590999603271484,-10.427000045776367 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(33,214,255)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.427000045776367 19.590999603271484,-8.98900032043457 C19.590999603271484,-8.98900032043457 19.590999603271484,8.98799991607666 19.590999603271484,8.98799991607666 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98799991607666 C-19.590999603271484,8.98799991607666 -19.590999603271484,-8.98900032043457 -19.590999603271484,-8.98900032043457 C-19.590999603271484,-10.427000045776367 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,26.09099769592285,78.33300018310547)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.425999641418457 19.590999603271484,-8.98799991607666 C19.590999603271484,-8.98799991607666 19.590999603271484,8.98799991607666 19.590999603271484,8.98799991607666 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98799991607666 C-19.590999603271484,8.98799991607666 -19.590999603271484,-8.98799991607666 -19.590999603271484,-8.98799991607666 C-19.590999603271484,-10.425999641418457 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(60,61,74)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.425999641418457 19.590999603271484,-8.98799991607666 C19.590999603271484,-8.98799991607666 19.590999603271484,8.98799991607666 19.590999603271484,8.98799991607666 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98799991607666 C-19.590999603271484,8.98799991607666 -19.590999603271484,-8.98799991607666 -19.590999603271484,-8.98799991607666 C-19.590999603271484,-10.425999641418457 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,46.133995056152344,36.33300018310547)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.425000190734863 19.590999603271484,-8.98799991607666 C19.590999603271484,-8.98799991607666 19.590999603271484,8.98900032043457 19.590999603271484,8.98900032043457 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98900032043457 C-19.590999603271484,8.98900032043457 -19.590999603271484,-8.98799991607666 -19.590999603271484,-8.98799991607666 C-19.590999603271484,-10.425000190734863 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(60,61,74)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M-2.010999917984009,-21.461000442504883 C-0.765999972820282,-22.18000030517578 0.765999972820282,-22.18000030517578 2.010999917984009,-21.461000442504883 C2.010999917984009,-21.461000442504883 17.579999923706055,-12.472999572753906 17.579999923706055,-12.472999572753906 C18.825000762939453,-11.753999710083008 19.590999603271484,-10.425000190734863 19.590999603271484,-8.98799991607666 C19.590999603271484,-8.98799991607666 19.590999603271484,8.98900032043457 19.590999603271484,8.98900032043457 C19.590999603271484,10.425999641418457 18.825000762939453,11.753999710083008 17.579999923706055,12.472999572753906 C17.579999923706055,12.472999572753906 2.010999917984009,21.461000442504883 2.010999917984009,21.461000442504883 C0.765999972820282,22.18000030517578 -0.765999972820282,22.18000030517578 -2.010999917984009,21.461000442504883 C-2.010999917984009,21.461000442504883 -17.579999923706055,12.472999572753906 -17.579999923706055,12.472999572753906 C-18.825000762939453,11.753999710083008 -19.590999603271484,10.425999641418457 -19.590999603271484,8.98900032043457 C-19.590999603271484,8.98900032043457 -19.590999603271484,-8.98799991607666 -19.590999603271484,-8.98799991607666 C-19.590999603271484,-10.425000190734863 -18.825000762939453,-11.753999710083008 -17.579999923706055,-12.472999572753906 C-17.579999923706055,-12.472999572753906 -2.010999917984009,-21.461000442504883 -2.010999917984009,-21.461000442504883z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,325.5,32.33300018310547)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(43,226,139)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,325.5,76.33300018310547)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(43,226,139)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,325.5,120.33300018310547)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(43,226,139)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,325.5,164.33299255371094)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(43,226,139)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+      </g>
+    </g>
+    <g
+      transform="matrix(1,0,0,1,325.5,208.33299255371094)"
+      opacity="1"
+      style={{ display: "block" }}
+    >
+      <g opacity="1" transform="matrix(1,0,0,1,0,0)">
+        <path
+          fill="rgb(1,13,27)"
+          fill-opacity="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+        <path
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          fill-opacity="0"
+          stroke-miterlimit="4"
+          stroke="rgb(43,226,139)"
+          stroke-opacity="1"
+          strokeWidth="1"
+          d=" M0,-18 C9.940999984741211,-18 18,-9.940999984741211 18,0 C18,9.940999984741211 9.940999984741211,18 0,18 C-9.940999984741211,18 -18,9.940999984741211 -18,0 C-18,-9.940999984741211 -9.940999984741211,-18 0,-18z"
+        ></path>
+      </g>
+    </g>
+  </g>
+</svg>

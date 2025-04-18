@@ -1,0 +1,126 @@
+.recentNews .news-title {
+    /* text-align: center; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'nimbus-sans-condensed ', sans-serif;
+    font-size: 55px;
+    font-weight: bold;
+    color: #fff;
+    }
+    
+    .recentNews .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    }
+    
+    .recentNews .ct-blog {
+    margin-bottom: 30px;
+    position: relative;
+    }
+    
+    .ct-blog .inner {
+    background-color: #FFF;
+    padding: 10px;
+    transition: all 0.2s ease-in-out 0s;
+    cursor: pointer;
+    height: 100%;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.1) 10px 10px 12px;
+    }
+    
+    .ct-blog .fauxcrop {
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    }
+    
+    .ct-blog .fauxcrop img {
+    width: 100%;
+    height: 100%;
+    }
+    
+    .ct-blog-description {
+    display: none;
+    transition: opacity 0.3s ease-in-out;
+    
+    }
+    
+    .ct-blog .inner:hover{
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    transform: scale(0.9);
+    }
+    
+    .ct-blog .inner:hover .ct-blog-description {
+    display: block;
+    font-size: 15px;
+    opacity: 0.7;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    .ct-blog-content {
+    position: absolute;
+    bottom: 0;
+    /* Position at the bottom of the container */
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    opacity: 0.8;
+    box-sizing: border-box;
+    }
+    
+    .ct-blog-content .ct-blog-date {
+    border-right: 1px solid #a6b8b9;
+    display: table-cell;
+    font-family: "Lato", sans-serif;
+    padding: 10px 18px 10px 15px;
+    margin: 5px;
+    text-align: center;
+    }
+    
+    .ct-blog-content .ct-blog-date span {
+    font-size: 15px;
+    /* color: navy; */
+    font-weight: 700;
+    display: block;
+    line-height: 1;
+    }
+    
+    .ct-blog-content .ct-blog-date strong {
+    font-size: 25px;
+    /* color: navy; */
+    }
+    
+    .ct-blog-content .ct-blog-header {
+    color: #000;
+    display: table-cell;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    line-height: 1.1;
+    padding: 0 20px;
+    vertical-align: top;
+    }
+    
+    .btn-news {
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    text-align: center;
+    }
+    
+    .btn-news.btn-contests a {
+    color: #fff;
+    font-family: 'nimbus-sans-condensed', sans-serif;
+    font-size: 24px;
+    transition: all 0.2s ease-in-out 0s;
+    }
+    
+    .btn-news.btn-contests a:hover {
+    color: #000;
+    }

@@ -1,0 +1,558 @@
+DELL@yashugolaviya21 MINGW64 ~
+$ pwd
+/c/Users/DELL
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls -S|head -6
+NTUSER.DAT
+ntuser.dat.LOG2
+ntuser.dat.LOG1
+NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.0.regtrans-ms
+NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.1.regtrans-ms
+NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.2.regtrans-ms
+
+DELL@yashugolaviya21 MINGW64 ~
+$ mkdir test.txt
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano test.sh
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./test.sh
+./test.sh: line 1: hello: command not found
+./test.sh: line 2: yashita: command not found
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./ test.sh
+bash: ./: Is a directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ chmod a+x test.sh
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./ test.sh
+bash: ./: Is a directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./test.sh
+./test.sh: line 1: hello: command not found
+./test.sh: line 2: yashita: command not found
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano test.sh
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./test.sh
+hello
+yashita
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano test1.sh
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./test1.sh
+good morning
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls -S | head -6
+NTUSER.DAT
+ntuser.dat.LOG2
+ntuser.dat.LOG1
+NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.0.regtrans-ms
+NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.1.regtrans-ms
+NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.2.regtrans-ms
+
+DELL@yashugolaviya21 MINGW64 ~
+$ pwd
+/c/Users/DELL
+
+DELL@yashugolaviya21 MINGW64 ~
+$ mkdir dir1
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cd dir1
+
+DELL@yashugolaviya21 MINGW64 ~/dir1
+$ ls
+
+DELL@yashugolaviya21 MINGW64 ~/dir1
+$ cd ..
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >f1
+hello
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >f2
+gm
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >f3
+nice
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >f4
+12
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >f5
+hhh
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat > f6
+ggg
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ JAVA_PTACTICAL_115.docx
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.0.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.1.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.2.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.blf
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TM.blf
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Oracle/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Tracing/
+ Videos/
+ dir1/
+ f1
+ f2
+ f3
+ f4
+ f5
+ f6
+ img/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ program.sh
+ source/
+ student.db
+ test.sh
+ test.txt/
+ test1.sh
+ tpl.csv
+ yashita/
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cp f[1-6] dir1
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls -l dir1
+total 6
+-rw-r--r-- 1 DELL 197121 6 Aug 23 20:59 f1
+-rw-r--r-- 1 DELL 197121 3 Aug 23 20:59 f2
+-rw-r--r-- 1 DELL 197121 5 Aug 23 20:59 f3
+-rw-r--r-- 1 DELL 197121 3 Aug 23 20:59 f4
+-rw-r--r-- 1 DELL 197121 4 Aug 23 20:59 f5
+-rw-r--r-- 1 DELL 197121 4 Aug 23 20:59 f6
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls -i
+   562949953437266 '3D Objects'/
+ 33214047251945461  AppData/
+   844424931172086 'Application Data'@
+   562949953437273  Contacts/
+  2251799814730823  Cookies@
+  2251799814028152 'Creative Cloud Files'/
+  3096224744203105  Desktop/
+  1125899906857331  Documents/
+  1125899906857330  Downloads/
+ 20547673299964199  Favorites/
+   562949953437022  IntelGraphicsProfiles/
+  3096224744207912  JAVA_PTACTICAL_115.docx
+ 22236523160227964  Links/
+  2251799814730817 'Local Settings'@
+  1125899906857327  Music/
+   844424931172060 'My Documents'@
+ 19421773393120243  NTUSER.DAT
+ 22799473113587292  NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.0.regtrans-ms
+ 50946970784704924  NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.1.regtrans-ms
+ 12947848928769164  NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.2.regtrans-ms
+ 47006321110693573  NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.blf
+  2251799814730845  NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TM.blf
+  2251799814730848  NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TMContainer00000000000000000001.regtrans-ms
+  2251799814731229  NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TMContainer00000000000000000002.regtrans-ms
+   844424931172097  NetHood@
+107241966126845427  OneDrive/
+   281474977382885  Oracle/
+   844424931172105  PrintHood@
+   844424931172739  Recent@
+  1125899906857325 'Saved Games'/
+   844424930147940  Searches/
+  2251799814730806  SendTo@
+  2251799814730807 'Start Menu'@
+  2251799814730808  Templates@
+  3096224743984401  Tracing/
+  1125899906857324  Videos/
+  3659174697261340  dir1/
+  5066549580813392  f1
+ 14355223812294137  f2
+ 38562071809409899  f3
+ 58265320179154093  f4
+ 29273397577960867  f5
+ 41939771529911847  f6
+  9007199254781719  img/
+  2251799814730839  ntuser.dat.LOG1
+  2251799814730842  ntuser.dat.LOG2
+ 15199648742390380  ntuser.ini
+ 58828270132587382  program.sh
+  1125899907495640  source/
+  8162774324726406  student.db
+ 40813871623079726  test.sh
+  1970324836996168  test.txt/
+ 79375943432439596  test1.sh
+   844424930201102  tpl.csv
+ 62768919806543332  yashita/
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano emp.lst
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./emp.lst
+./emp.lst: line 1: name,rno,div,marks: command not found
+./emp.lst: line 2: yashita,115,tybca115,90: command not found
+./emp.lst: line 3: nayan,172,tybca172,92: command not found
+./emp.lst: line 4: panthi,102,tybca101,80: command not found
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cut -d,-f1,2,3 emp.lst | head -2
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cut -d, -f1,2,3 emp.lst | head -2
+name,rno,div
+yashita,115,tybca115
+
+DELL@yashugolaviya21 MINGW64 ~
+$ tail -1 emp.lst
+panthi,102,tybca101,80
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano demo1
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cut -d" " -f1 demo1
+a
+b
+c
+d
+
+
+DELL@yashugolaviya21 MINGW64 ~
+$ wc m*
+wc: 'm*': No such file or directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano marks
+
+DELL@yashugolaviya21 MINGW64 ~
+$ wc m*
+4 4 8 marks
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat -n demo1
+     1  a apple
+     2  b ball
+     3  c cat
+     4  d dog
+     5
+
+DELL@yashugolaviya21 MINGW64 ~
+$ mkdir -p dir1/dir2/dir3
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ JAVA_PTACTICAL_115.docx
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.0.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.1.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.2.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.blf
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TM.blf
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Oracle/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Tracing/
+ Videos/
+ demo1
+ dir1/
+ emp.lst
+ f1
+ f2
+ f3
+ f4
+ f5
+ f6
+ img/
+ marks
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ program.sh
+ source/
+ student.db
+ test.sh
+ test.txt/
+ test1.sh
+ tpl.csv
+ yashita/
+
+DELL@yashugolaviya21 MINGW64 ~
+$ mkdir -p dir1/dir2/dir3
+
+DELL@yashugolaviya21 MINGW64 ~
+$ rmdir -p dir1/dir/dir3
+rmdir: failed to remove 'dir1/dir/dir3': No such file or directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ mkdir dir1
+mkdir: cannot create directory ‘dir1’: File exists
+
+DELL@yashugolaviya21 MINGW64 ~
+$ bc
+bash: bc: command not found
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat f1
+hello
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat f11
+cat: f11: No such file or directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano f11
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./f11
+bash: ./f11: No such file or directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano f11
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./f11
+./f11: line 1: hello: command not found
+
+DELL@yashugolaviya21 MINGW64 ~
+$ chmod a+x f11
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./f11
+./f11: line 1: hello: command not found
+
+DELL@yashugolaviya21 MINGW64 ~
+$ nano f11
+
+DELL@yashugolaviya21 MINGW64 ~
+$ chmod a+x f11
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./ f11
+bash: ./: Is a directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ./f11
+./f11: line 1: hello: command not found
+
+DELL@yashugolaviya21 MINGW64 ~
+$ mkdir -p tybca/mywork
+
+DELL@yashugolaviya21 MINGW64 ~
+$ rm -f tybca/mywork
+rm: cannot remove 'tybca/mywork': Is a directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ rm -f tybca/mywork*
+rm: cannot remove 'tybca/mywork': Is a directory
+
+DELL@yashugolaviya21 MINGW64 ~
+$ rm -f tybca/mywork/*
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls -u dir1/
+dir2/  f1  f2  f3  f4  f5  f6
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >chap1
+hello
+
+DELL@yashugolaviya21 MINGW64 ~
+$ mc chap1 unit1
+bash: mc: command not found
+
+DELL@yashugolaviya21 MINGW64 ~
+$ mv chap1 unit1
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ JAVA_PTACTICAL_115.docx
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.0.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.1.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.2.regtrans-ms
+ NTUSER.DAT{303f6091-b5e0-11ed-8532-ea1c1ac03ca2}.TxR.blf
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TM.blf
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{303f6092-b5e0-11ed-8532-ea1c1ac03ca2}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Oracle/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Tracing/
+ Videos/
+ demo1
+ dir1/
+ emp.lst
+ f1
+ f11
+ f2
+ f3
+ f4
+ f5
+ f6
+ img/
+ marks
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ program.sh
+ source/
+ student.db
+ test.sh
+ test.txt/
+ test1.sh
+ tpl.csv
+ tybca/
+ unit1
+ yashita/
+
+DELL@yashugolaviya21 MINGW64 ~
+$ wc -l unit1
+1 unit1
+
+DELL@yashugolaviya21 MINGW64 ~
+$ ls -i unit1
+30962247438214073 unit1
+
+DELL@yashugolaviya21 MINGW64 ~
+$ sort -u unit1
+
+hello
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >tybca1
+hello
+hello
+gm
+
+DELL@yashugolaviya21 MINGW64 ~
+$ uniq -u tybca
+uniq: error reading 'tybca'
+
+DELL@yashugolaviya21 MINGW64 ~
+$ uniq -u tybca1
+gm
+
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >x1
+hello
+gm
+yashita
+
+DELL@yashugolaviya21 MINGW64 ~
+$ head -5 x1 | wc -c
+17
+DELL@yashugolaviya21 MINGW64 ~
+$ cat >x1
+hello
+gm
+yashita
+
+DELL@yashugolaviya21 MINGW64 ~
+$ head -5 x1 | wc -c
+17
+
+DELL@yashugolaviya21 MINGW64 ~
+$ tail +5 emp.lst
+
+DELL@yashugolaviya21 MINGW64 ~
+$ tail -1 emp.lst
+panthi,102,tybca101,80
+
+DELL@yashugolaviya21 MINGW64 ~
+$ chmod g-x x1
+
